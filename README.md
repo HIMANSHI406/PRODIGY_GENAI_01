@@ -13,8 +13,8 @@ Fine-tune OpenAI’s GPT-2 model on a custom dataset of motivational quotes to g
 - W&B (Weights & Biases)
 
 ## 📂 Files
-- `Untitled1.ipynb` – Google Colab notebook with training and generation
-- `motivational_quotes.txt` – The text dataset used for fine-tuning
+- https://colab.research.google.com/drive/1Y-JQYCf8NuADIzZByAOEdQXC-uUbwE41?usp=sharing – Google Colab notebook with training and generation
+- `motivational_quotes.txt`– The text dataset used for fine-tuning
 
 ## 🧠 What I Learned
 - How to tokenize custom text datasets
